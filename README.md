@@ -11,7 +11,7 @@ Un outil professionnel de Simulation à Evènement Discret (DES) pour l'analyse 
 ## Fonctionnalités
 
 - **Simulation à Evènement Discret** de M/M/c/k₀ queues
-- **Solution analytique** pour une comparaison à état
+- **Solution analytique** pour une comparaison en régime stationnaire
 - **Optimisation** Pour trouver le nombre optimal de serveurs (c*)
 - **Visualisation temps réel** avec matplotlib
 - **Une interface utilisateur graphique Professionnelle** conçue avec Tkinter
