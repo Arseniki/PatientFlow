@@ -13,8 +13,8 @@ Un outil professionnel de Simulation à Evènement Discret (DES) pour l'analyse 
 - **Simulation à Evènement Discret** de M/M/c/k₀ queues
 - **Solution analytique** pour une comparaison à état
 - **Optimisation** Pour trouver le nombre optimal de serveurs (c*)
-- **Visualisation temps réels** avec matplotlib
-- **Professional GUI** conçue avec Tkinter
+- **Visualisation temps réel** avec matplotlib
+- **Une interface utilisateur graphique Professionnelle** conçue avec Tkinter
 - **Paramètres configurable** (taux d'arrivée, taux de service, capacité.)
 - **Métriques multiples** (Wq, Lq, P(rejet), P(surcharge).)
 
