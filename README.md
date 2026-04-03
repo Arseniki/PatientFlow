@@ -2,7 +2,7 @@
 
 ## Simulation à Evènement Discret pour les centres de santé
 
-[![Python 3.13+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Un outil professionnel de Simulation à Evènement Discret (DES) pour l'analyse de M/M/c/k₀ des systèmes de file d'attente avec une interface graphique. Parfait pour la planification de la capacité et l'optimisation des centres de santé. 
