@@ -30,7 +30,7 @@ Un outil professionnel de Simulation à Evènement Discret (DES) pour l'analyse 
 ```bash
 # Cloner le répositori
 git clone https://github.com/Arseniki/PatientFlow.git
-cd simulation-des
+cd PATIENTFLOW
 
 # Installer les dépendances
 pip install -r requirements.txt
