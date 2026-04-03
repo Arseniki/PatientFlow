@@ -18,7 +18,14 @@ Un outil professionnel de Simulation à Evènement Discret (DES) pour l'analyse 
 - **Paramètres configurable** (taux d'arrivée, taux de service, capacité.)
 - **Métriques multiples** (Wq, Lq, P(rejet), P(surcharge).)
 
+## Les interfaces
+![Screenshot](./interfaces/interface_vue_d_ensemble.png)
+![Screenshot](./interfaces/interface_evolution_temporelle.png)
+![Screenshot](./interfaces/interface_distribution_pn.png)
+![Screenshot](./interfaces/interface_optimisation.png)
+
 ## Installation
+
 
 ```bash
 # Cloner le répositori
@@ -30,9 +37,3 @@ pip install -r requirements.txt
 
 # Exécuter l'application
 python src/main.py
-
-
-![Screenshot](./interfaces/interface_vue_d_ensemble.png)
-![Screenshot](./interfaces/interface_evolution_temporelle.png)
-![Screenshot](./interfaces/interface_distribution_pn.png)
-![Screenshot](./interfaces/interface_optimisation.png)
